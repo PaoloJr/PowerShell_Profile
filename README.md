@@ -1,3 +1,5 @@
+[Article](https://christitus.com/the-ultimate-powershell-experience/)
+
 # 🎨 PowerShell Profile (Pretty PowerShell)
 
 A stylish and functional PowerShell profile that looks and feels almost as good as a Linux terminal.
